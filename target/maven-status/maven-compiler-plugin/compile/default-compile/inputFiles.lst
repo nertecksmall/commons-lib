@@ -1,0 +1,13 @@
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/exception/NotificationException.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/autoconfigurations/AutoConfiguration.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/model/Notification.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/model/PrincipalUser.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/annotation/NonValidateSession.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/utils/RequestUtils.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/annotation/AuthorizationRole.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/aspec/SesionRoleAspect.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/exception/CustomExceptionHandler.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/utils/NotificationUtil.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/aspec/SesionAspect.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/session/security/response/ResponseTO.java
+/home/nerteck/Documents/workspace-spring-tool-suite-4-4/commons-lib/src/main/java/com/mx/yoconsumo/commons/autoconfigurations/Application.java
